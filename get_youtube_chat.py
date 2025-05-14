@@ -1,7 +1,7 @@
 import requests
 
-API_KEY = "REMOVED_KEY"
-CHANNEL_ID = "UCWJ2lWNubArHWmf3FIHbfcQ"
+API_KEY = ""
+CHANNEL_ID = "UCGbshtvS9t-8CW11W7TooQg"
 
 url = f"https://www.googleapis.com/youtube/v3/search?part=id&channelId={CHANNEL_ID}&eventType=live&type=video&key={API_KEY}"
 
